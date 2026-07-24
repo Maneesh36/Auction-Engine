@@ -86,6 +86,10 @@ Client 3  ----/
 
 All communication between clients and the server is secured using SSL/TLS.
 
+## Application Screenshot
+
+<img src="Auction.png" alt="Auction GUI" width="800"/>
+
 ## Future Improvements
 
 - User authentication
